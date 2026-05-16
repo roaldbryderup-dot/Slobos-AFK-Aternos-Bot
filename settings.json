@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rvp1.aternos.me",
-    "port": 17655,
-    "version": "1.21.10",
+    "ip": "rtmw.falixsrv.me",
+    "port": 20958,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
