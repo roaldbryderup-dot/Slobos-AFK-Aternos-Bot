@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rvp1.aternos.me",
+    "ip": "rvp1.aternos.me:17655",
     "port": 27586,
     "version": "",
     "try-creative": false
